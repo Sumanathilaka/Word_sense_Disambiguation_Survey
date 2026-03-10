@@ -280,7 +280,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 254. **PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation** 2025
 255. **Word sense disambiguation in  biomedical applications** 2025
 256. **Hybrid Transformer-Based Large Language Models for Word Sense Disambiguation in the Low-Resource Sesotho sa Leboa Language** 2025
-257. **Marathi Word Sense Disambiguation through unsupervised K-Means Clustering ** 2025
+257. **Marathi Word Sense Disambiguation through unsupervised K-Means Clustering** 2025
 258. **Towards Disambiguation of Mathematical Terms based on Semantic Representations 2025** 2025
 259. **LTRS: Improving Word Sense Disambiguation via Learning to Rank Senses** 2025
 260. **Towards General-Domain Word Sense Disambiguation: Distilling Large Language Model into Compact Disambiguator** 2025
