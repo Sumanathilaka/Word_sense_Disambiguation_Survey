@@ -25,7 +25,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 # WSD papers ordered in chronological order
 
 1. **Automatic sense disambiguation using machine readable dictionaries: how to tell a pine cone from an ice cream cone** 1986
-2. **A SEMANTIC CONCORDANCE ** 1993
+2. **A SEMANTIC CONCORDANCE** 1993
 3. **Word Sense Disambiguation using Conceptual Density** 1996
 4. **A New Supervised Learning Algorithm for Word Sense Disambiguation** 1997
 5. **approximate statistical tests for comparing supervised classification learning algorithms** 1998
@@ -38,13 +38,13 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 12. **Extended gloss overlaps as a measure of semantic relatedness** 2003
 13. **Ambiguity Identification and Measurement in Natural Language Texts** 2004
 14. **Unsupervisedandsupervisedexploitationofsemantic domains inlexicaldisambiguationq** 2004
-15. **Context Clustering for Word Sense Disambiguation Based on  Modeling Pairwise Context Similarities ** 2004
+15. **Context Clustering for Word Sense Disambiguation Based on  Modeling Pairwise Context Similarities** 2004
 16. **High WSD accuracy using Naive Bayesian classifier with rich features** 2004
 17. **The syntactically dangerous all and plural in specifications** 2005
 18. **Word-Sense Disambiguation for Machine Translation** 2005
 19. **Word Sense Disambiguation vs. Statistical Machine Translation** 2005
-20. **Word Sense Disambiguation Using Target Language Corpus in a Machine Translation System ** 2005
-21. **Survey of Word Sense Disambiguation Approaches ** 2005
+20. **Word Sense Disambiguation Using Target Language Corpus in a Machine Translation System** 2005
+21. **Survey of Word Sense Disambiguation Approaches** 2005
 22. **Improving Statistical Machine Translation using Word Sense Disambiguation** 2007
 23. **Word Sense Disambiguation Improves Statistical Machine Translation** 2007
 24. **How Phrase Sense Disambiguation outperforms Word Sense Disambiguation for Statistical Machine Translation** 2007
@@ -154,7 +154,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 128. **A Synset Relation-enhanced Framework with a Try-again Mechanism for Word Sense Disambiguation** 2020
 129. **Generationary or: How We Went beyond Word Sense Inventories and Learned to Gloss** 2020
 130. **A comprehensive review on resolving ambiguities in natural language processing** 2021
-131. **Analysis and Evaluation of Language Models for Word Sense Disambiguation ** 2021
+131. **Analysis and Evaluation of Language Models for Word Sense Disambiguation** 2021
 132. **ConSeC: Word Sense Disambiguation as Continuous SenseComprehension** 2021
 133. **Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach** 2021
 134. **WiC-TSV: An Evaluation Benchmark for Target Sense Verification of Words in Context** 2021
@@ -163,7 +163,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 137. **Deep analysis of word sense disambiguation via semi-supervised learning and neural word representations** 2021
 138. **AMuSE-WSD: An All-in-one Multilingual System for Easy Word Sense Disambiguation** 2021
 139. **Incorporating Word Sense Disambiguation in Neural Language Models** 2021
-140. **Analysis and Evaluation of Language Models for Word Sense Disambiguation ** 2021
+140. **Analysis and Evaluation of Language Models for Word Sense Disambiguation** 2021
 141. **Improved Word Sense Disambiguation with Enhanced Sense Representations** 2021
 142. **Recent Trends in Word Sense Disambiguation : A Survey** 2021
 143. **SensPick: Sense Picking for Word Sense Disambiguation** 2021
@@ -190,7 +190,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 164. **Role of Genetic Algorithm in Optimization of Hindi Word Sense Disambiguation** 2022
 165. **A Tour of Explicit Multilingual Semantics: Word Sense Disambiguation, Semantic Role Labeling and Semantic Parsing** 2022
 166. **Using Fuzzy Clustering with Deep Learning Models for Detection of COVID-19 Disinformation** 2022
-167. **Word Sense Disambiguation: A Supervised Semantic Similarity based Complex Network Approach ** 2022
+167. **Word Sense Disambiguation: A Supervised Semantic Similarity based Complex Network Approach** 2022
 168. **DiBiMT: A Novel Benchmark for Measuring Word Sense Disambiguation Biases in Machine Translation** 2022
 169. **LMMS Reloaded: Transformer-based Sense Embeddings for Disambiguation and Beyond** 2022
 170. **ExtEnD: Extractive Entity Disambiguation** 2022
