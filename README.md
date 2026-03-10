@@ -24,7 +24,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 
 # WSD papers ordered in chronological order
 
-![Year Distribution](./yearDistribution.png)
+![Year Distribution](./images/yearDistributionupdated.png)
 
 
 1. **Automatic sense disambiguation using machine readable dictionaries: how to tell a pine cone from an ice cream cone** 1986
