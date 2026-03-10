@@ -24,6 +24,9 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 
 # WSD papers ordered in chronological order
 
+![Year Distribution](./yearDistribution.png)
+
+
 1. **Automatic sense disambiguation using machine readable dictionaries: how to tell a pine cone from an ice cream cone** 1986
 2. **A SEMANTIC CONCORDANCE** 1993
 3. **Word Sense Disambiguation using Conceptual Density** 1996
