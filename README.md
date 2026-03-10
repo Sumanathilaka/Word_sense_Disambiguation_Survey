@@ -39,7 +39,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 13. **Ambiguity Identification and Measurement in Natural Language Texts** 2004
 14. **Unsupervisedandsupervisedexploitationofsemantic domains inlexicaldisambiguationq** 2004
 15. **Context Clustering for Word Sense Disambiguation Based on  Modeling Pairwise Context Similarities ** 2004
-16. ** High WSD accuracy using Naive Bayesian classifier with rich features** 2004
+16. **High WSD accuracy using Naive Bayesian classifier with rich features** 2004
 17. **The syntactically dangerous all and plural in specifications** 2005
 18. **Word-Sense Disambiguation for Machine Translation** 2005
 19. **Word Sense Disambiguation vs. Statistical Machine Translation** 2005
@@ -74,7 +74,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 48. **An enhanced lesk word sense disambiguation algorithm through a distributional semantic model** 2014
 49. **A word sense disambiguation technique for sinhala** 2014
 50. **A Literature Survey on Various Approaches of Word Sense Disambiguation** 2014
-51. **Approaches for Word Sense Disambiguation A Survey** 2014
+51. **Approaches for Word Sense Disambiguation :A Survey** 2014
 52. **Trends in word sense disambiguation** 2014
 53. **WORD SENSE DISAMBIGUATION: A SURVEY** 2015
 54. **Unsupervised Approach to Word Sense Disambiguation in Malayalam** 2015
@@ -134,7 +134,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 108. **Language Models and Word Sense Disambiguation: An Overview and Analysis** 2020
 109. **AFPun-GAN: Ambiguity-Fluency Generative Adversarial Network for Pun Generation** 2020
 110. **Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information** 2020
-111. ** TWE?WSD: An effective topical word embedding based word sense disambiguation** 2020
+111. **TWE-WSD: An effective topical word embedding based word sense disambiguation** 2020
 112. **SINSENSE - WORD SENSE DISAMBIGUATION TOOL FOR SINHALA LANGUAGE** 2020
 113. **Word Embedding Evaluation for Sinhala** 2020
 114. **CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation** 2020
@@ -174,12 +174,12 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 148. **XL-WSD: An Extra-Large and Cross-Lingual Evaluation Framework for Word Sense Disambiguation** 2021
 149. **Recent Trends in Word Sense Disambiguation : A Survey** 2021
 150. **Connect-the-Dots: Bridging Semantics between Words and Definitions via Aligning Word Sense Inventories** 2021
-151. ** The impact of word sense disambiguation on stock price prediction** 2021
+151. **The impact of word sense disambiguation on stock price prediction** 2021
 152. **Nepali Word-Sense Disambiguation Using Variants of Simplified Lesk Measure** 2021
 153. **Word Sense Disambiguation: Towards Interactive  Context Exploitation from Both Word and Sense Perspectives** 2021
-154. ** Arabic Gloss WSD Using BERT** 2021
+154. **Arabic Gloss WSD Using BERT** 2021
 155. **A Study on Detecting Domain-Specific Senses and its Application to Text Categorization** 2021
-156. ** Word Sense Disambiguation Models Emerging Trends: A Comparative Analysis ** 2021
+156. **Word Sense Disambiguation Models Emerging Trends: A Comparative Analysis** 2021
 157. **Word sense disambiguation based on context selection using knowledge-based word similarity** 2021
 158. **Comparing Results of Natural Language Disambiguation Tools with Reports of Manual Reviews of Safety-Related Standards** 2022
 159. **Ambiguity in Requirements Engineering: Towards a Unifying Framework** 2022
@@ -262,7 +262,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 236. **Thank You, Stingray: Multilingual Large Language Models  Can Not (Yet) Disambiguate Cross-Lingual Word Sense** 2024
 237. **Using Language Models to Disambiguate Lexical Choices in Translation** 2024
 238. **Multilingual Word Sense Disambiguation for Semantic Annotations: Fusing Knowledge Graphs, Lexical Resources, and Large Language Models** 2024
-239. ** A Systematic Analysis of Various Word Sense Disambiguation Approaches** 2024
+239. **A Systematic Analysis of Various Word Sense Disambiguation Approaches** 2024
 240. **Lost in Disambiguation: How Instruction-Tuned LLMs Master Lexical Ambiguity** 2024
 241. **State-of-the-Art Approaches to Word Sense Disambiguation: A Multilingual Investigation** 2024
 242. **Assessing GPT's Potential for Word Sense Disambiguation: A Quantitative Evaluation on Prompt Engineering Techniques** 2024
@@ -271,7 +271,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 245. **State-of-the-Art Approaches to WordSense Disambiguation: A Multilingual Investigation** 2024
 246. **SANDWiCH: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc** 2025
 247. **Extensive mutation for testing of word sense disambiguation models** 2025
-248. ** GlossGPT:GPTforWordSenseDisambiguationusingFew-shot Chain-of-ThoughtPrompting** 2025
+248. **GlossGPT:GPTforWordSenseDisambiguationusingFew-shot Chain-of-ThoughtPrompting** 2025
 249. **Are Larger Language Models Better at Disambiguation** 2025
 250. **EXPLORING THE WORD SENSE DISAMBIGUATION CAPABILITIES OF LARGE LANGUAGE MODELS** 2025
 251. **Leveraging large language models for word sense disambiguation** 2025
