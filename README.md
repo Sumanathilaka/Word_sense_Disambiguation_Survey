@@ -271,7 +271,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 242. **Assessing GPT's Potential for Word Sense Disambiguation: A Quantitative Evaluation on Prompt Engineering Techniques** 2024
 243. **Can LLMs assist with Ambiguity? A Quantitative Evaluation of various Large Language Models on Word Sense Disambiguation** 2024
 244. **ContrastWSD: Enhancing Metaphor Detection with Word Sense Disambiguation Following the Metaphor Identification Procedure** 2024
-245. **State-of-the-Art Approaches to WordSense Disambiguation: A Multilingual Investigation** 2024
+245. **WSD task based on Chinese BERT model** 2024
 246. **SANDWiCH: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc** 2025
 247. **Extensive mutation for testing of word sense disambiguation models** 2025
 248. **GlossGPT:GPTforWordSenseDisambiguationusingFew-shot Chain-of-ThoughtPrompting** 2025
