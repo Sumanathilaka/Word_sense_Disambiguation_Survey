@@ -242,7 +242,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 213. **IMPROVING SEMANTIC ANALYSIS IN VISUALIZATION WITH META NETWORK REPRESENTATION AND PARSING ALGORITHM** 2024
 214. **Finding Challenging Metaphors that Confuse PretrainedLanguage Models** 2024
 215. **Ambiguity and disambiguation in information retrieval systems (systematic review** 2024
-216. **Contextual SenSe Model: Word Sense Disambiguation Using Sense and Sense Value of Context Surrounding the Target ** 2024
+216. **Contextual SenSe Model: Word Sense Disambiguation Using Sense and Sense Value of Context Surrounding the Target** 2024
 217. **Using Conceptors to Extract Abstraction Hierarchies from Corpora of Natural Text** 2024
 218. **Assessing the Significance of Encoded Information in ContextualizedRepresentations to Word Sense Disambiguation** 2024
 219. **A Survey on Lexical Ambiguity Detection and Word Sense Disambiguation** 2024
