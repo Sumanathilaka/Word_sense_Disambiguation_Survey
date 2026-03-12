@@ -119,7 +119,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 90. **Word Sense Disambiguation: A comprehensive knowledge exploitation framework** 2019
 91. **Using BERT for Word Sense Disambiguation** 2019
 92. **WSD-GAN: Word Sense Disambiguation Using Generative Adversarial Networks** 2019
-93. **Just OneSeC for Producing Multilingual Sense-Annotated Data** 2019
+93. **Just "OneSeC" for Producing Multilingual Sense-Annotated Data** 2019
 94. **Word Sense Disambiguation: A comprehensive knowledgeexploitation framework** 2019
 95. **GLUE: A MULTI-TASK BENCHMARK AND ANALYSISPLATFORM FOR NATURAL LANGUAGE UNDERSTANDING** 2019
 96. **WiC: the Word-in-Context Datasetfor Evaluating Context-Sensitive Meaning Representations** 2019
