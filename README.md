@@ -231,70 +231,72 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 202. **A method for constructing word sense embeddings based on word sense induction** 2023
 203. **Prompt Tuning for Unified Multimodal Pretrained Models** 2023
 204. **What do Language Models know about word senses?Zero-Shot WSD with Language Models and Domain Inventories** 2023
-205. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing** 2023
-206. **Contextual embeddings for Ukrainian: A large language model approach to word sense disambiguation** 2023
-207. **The Contribution of Selected Linguistic Markers for Unsupervised Arabic Verb Sense Disambiguation** 2023
-208. **Comparative Analysis of Path-based Similarity Measures for Word Sense Disambiguation** 2023
-209. **Automated multimodal sensemaking: Ontology-based integration of linguistic frames and visual data** 2024
-210. **EnhancedBERT: A feature-rich ensemble model for Arabic word sense disambiguation with statistical analysis and optimized data collection** 2024
-211. **A survey on semantic processing techniques** 2024
-212. **Leveraging Contextual Factors for Word Sense Disambiguation in Hindi Language** 2024
-213. **IMPROVING SEMANTIC ANALYSIS IN VISUALIZATION WITH META NETWORK REPRESENTATION AND PARSING ALGORITHM** 2024
-214. **Finding Challenging Metaphors that Confuse PretrainedLanguage Models** 2024
-215. **Ambiguity and disambiguation in information retrieval systems (systematic review** 2024
-216. **Contextual SenSe Model: Word Sense Disambiguation Using Sense and Sense Value of Context Surrounding the Target** 2024
-217. **Using Conceptors to Extract Abstraction Hierarchies from Corpora of Natural Text** 2024
-218. **Assessing the Significance of Encoded Information in ContextualizedRepresentations to Word Sense Disambiguation** 2024
-219. **A Survey on Lexical Ambiguity Detection and Word Sense Disambiguation** 2024
-220. **Quantum Interference Model for Semantic Biases of Gloss in Word Sense Disambiguation** 2024
-221. **Advancements in Word Sense Disambiguation: A Poly-Encoder Bert Model Perspective** 2024
-222. **Application of the transformer model algorithm in chinese word sense disambiguation: a case study in chinese language** 2024
-223. **Word Sense Linking: Disambiguating Outside the Sandbox** 2024
-224. **A Few-shot Learning Approach for Lexical Semantic Change Detection Using GPT-4** 2024
-225. **DIBIMT: A Gold Evaluation Benchmark for Studying Lexical Ambiguity in Machine Translation** 2024
-226. **Word Sense Disambiguation for Morphologically Rich Low-Resourced Languages: A Systematic Literature Review and Meta-Analysis** 2024
-227. **Additional Diverse Techniques for Improvising Lesk Algorithm to Enhance Manipuri Word Sense Disambiguation** 2024
-228. **Are Decoder-Only Language Models Better than Encoder-Only Language Models in Understanding Word Meaning?** 2024
-229. **Multilingual Word Sense Disambiguation for SemanticAnnotations: Fusing Knowledge Graphs, LexicalResources, and Large Language Models** 2024
-230. **rematchka at ArabicNLU2024: Evaluating Large Language Models for Arabic Word Sense and Location Sense Disambiguation** 2024
-231. **A Few-shot Learning Approach for Lexical Semantic Change Detection Using GPT-4** 2024
-232. **Multilingual Word Sense Disambiguation for Semantic Annotations: Fusing Knowledge Graphs, Lexical Resources, and Large Language Models** 2024
-233. **On Functional Competence of LLMs for Linguistic Disambiguation** 2024
-234. **FOOL ME IF YOU CAN! An Adversarial Dataset to Investigate the Robustness of LMs in Word Sense Disambiguation** 2024
-235. **Are Decoder-Only Language Models Better than  Encoder-Only Language Models in Understanding Word Meaning** 2024
-236. **Thank You, Stingray: Multilingual Large Language Models  Can Not (Yet) Disambiguate Cross-Lingual Word Sense** 2024
-237. **Using Language Models to Disambiguate Lexical Choices in Translation** 2024
-238. **Multilingual Word Sense Disambiguation for Semantic Annotations: Fusing Knowledge Graphs, Lexical Resources, and Large Language Models** 2024
-239. **A Systematic Analysis of Various Word Sense Disambiguation Approaches** 2024
-240. **Lost in Disambiguation: How Instruction-Tuned LLMs Master Lexical Ambiguity** 2024
-241. **State-of-the-Art Approaches to Word Sense Disambiguation: A Multilingual Investigation** 2024
-242. **Assessing GPT's Potential for Word Sense Disambiguation: A Quantitative Evaluation on Prompt Engineering Techniques** 2024
-243. **Can LLMs assist with Ambiguity? A Quantitative Evaluation of various Large Language Models on Word Sense Disambiguation** 2024
-244. **ContrastWSD: Enhancing Metaphor Detection with Word Sense Disambiguation Following the Metaphor Identification Procedure** 2024
-245. **WSD task based on Chinese BERT model** 2024
-246. **SANDWiCH: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc** 2025
-247. **Extensive mutation for testing of word sense disambiguation models** 2025
-248. **GlossGPT:GPTforWordSenseDisambiguationusingFew-shot Chain-of-ThoughtPrompting** 2025
-249. **Are Larger Language Models Better at Disambiguation** 2025
-250. **EXPLORING THE WORD SENSE DISAMBIGUATION CAPABILITIES OF LARGE LANGUAGE MODELS** 2025
-251. **Leveraging large language models for word sense disambiguation** 2025
-252. **Exploiting Word Sense Disambiguation in Large Language Models for Machine Translation** 2025
-253. **SenWiCh: Sense-Annotation of Low-Resource Languages for WiC using Hybrid Methods** 2025
-254. **PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation** 2025
-255. **Word sense disambiguation in  biomedical applications** 2025
-256. **Hybrid Transformer-Based Large Language Models for Word Sense Disambiguation in the Low-Resource Sesotho sa Leboa Language** 2025
-257. **Marathi Word Sense Disambiguation through unsupervised K-Means Clustering** 2025
-258. **Towards Disambiguation of Mathematical Terms based on Semantic Representations 2025** 2025
-259. **LTRS: Improving Word Sense Disambiguation via Learning to Rank Senses** 2025
-260. **Towards General-Domain Word Sense Disambiguation: Distilling Large Language Model into Compact Disambiguator** 2025
-261. **Simplifications are Absolutists: How Simplified Language Reduces WordSense Awareness in LLM-Generated Definitions** 2025
-262. **How Much Do Encoder Models Know About Word Senses?** 2025
-263. **Enhancing Zero-Shot Word Sense Disambiguation via Clustered Sense Vectors** 2025
-264. **MADAWSD: Multi-Agent Debate Framework for Adversarial Word Sense Disambiguation** 2025
-265. **RoDEval: A Robust Word Sense Disambiguation Evaluation Framework for Large Language Models** 2025
-266. **Prompt Balance Matters: Understanding How Imbalanced Few-ShotLearning Affects Multilingual Sense Disambiguation in LLMs** 2025
-267. **Exploring the Impact of Temperature on Large Language Models: A Case Study for Classification Task based on Word Sense Disambiguation** 2025
-268. **Do Large Language Models Understand Word Senses?** 2025
-269. **A Survey on Lexical Ambiguity Detection and Word Sense Disambiguation** 2025
-270. **Word sense disambiguation in biomedical applications** 2025
-271. **Integrating Symbolic Natural Language Understanding and Language Models for Word Sense Disambiguation** 2025
+205. **Quantum-inspired representation for long-tail senses of word sense disambiguation** 2023
+206. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing** 2023
+207. **Contextual embeddings for Ukrainian: A large language model approach to word sense disambiguation** 2023
+208. **The Contribution of Selected Linguistic Markers for Unsupervised Arabic Verb Sense Disambiguation** 2023
+209. **Comparative Analysis of Path-based Similarity Measures for Word Sense Disambiguation** 2023
+210. **Automated multimodal sensemaking: Ontology-based integration of linguistic frames and visual data** 2024
+211. **EnhancedBERT: A feature-rich ensemble model for Arabic word sense disambiguation with statistical analysis and optimized data collection** 2024
+212. **A survey on semantic processing techniques** 2024
+213. **Leveraging Contextual Factors for Word Sense Disambiguation in Hindi Language** 2024
+214. **IMPROVING SEMANTIC ANALYSIS IN VISUALIZATION WITH META NETWORK REPRESENTATION AND PARSING ALGORITHM** 2024
+215. **Finding Challenging Metaphors that Confuse PretrainedLanguage Models** 2024
+216. **Ambiguity and disambiguation in information retrieval systems (systematic review** 2024
+217. **Contextual SenSe Model: Word Sense Disambiguation Using Sense and Sense Value of Context Surrounding the Target** 2024
+218. **Using Conceptors to Extract Abstraction Hierarchies from Corpora of Natural Text** 2024
+219. **Assessing the Significance of Encoded Information in ContextualizedRepresentations to Word Sense Disambiguation** 2024
+220. **A Survey on Lexical Ambiguity Detection and Word Sense Disambiguation** 2024
+221. **Quantum Interference Model for Semantic Biases of Gloss in Word Sense Disambiguation** 2024
+222. **Advancements in Word Sense Disambiguation: A Poly-Encoder Bert Model Perspective** 2024
+223. **Application of the transformer model algorithm in chinese word sense disambiguation: a case study in chinese language** 2024
+224. **Word Sense Linking: Disambiguating Outside the Sandbox** 2024
+225. **A Few-shot Learning Approach for Lexical Semantic Change Detection Using GPT-4** 2024
+226. **DIBIMT: A Gold Evaluation Benchmark for Studying Lexical Ambiguity in Machine Translation** 2024
+227. **Word Sense Disambiguation for Morphologically Rich Low-Resourced Languages: A Systematic Literature Review and Meta-Analysis** 2024
+228. **Additional Diverse Techniques for Improvising Lesk Algorithm to Enhance Manipuri Word Sense Disambiguation** 2024
+229. **Are Decoder-Only Language Models Better than Encoder-Only Language Models in Understanding Word Meaning?** 2024
+230. **Multilingual Word Sense Disambiguation for SemanticAnnotations: Fusing Knowledge Graphs, LexicalResources, and Large Language Models** 2024
+231. **rematchka at ArabicNLU2024: Evaluating Large Language Models for Arabic Word Sense and Location Sense Disambiguation** 2024
+232. **A Few-shot Learning Approach for Lexical Semantic Change Detection Using GPT-4** 2024
+233. **Multilingual Word Sense Disambiguation for Semantic Annotations: Fusing Knowledge Graphs, Lexical Resources, and Large Language Models** 2024
+234. **On Functional Competence of LLMs for Linguistic Disambiguation** 2024
+235. **FOOL ME IF YOU CAN! An Adversarial Dataset to Investigate the Robustness of LMs in Word Sense Disambiguation** 2024
+236. **Pretrained quantum-inspired deep neural network for natural language processing** 2024
+237. **Are Decoder-Only Language Models Better than  Encoder-Only Language Models in Understanding Word Meaning** 2024
+238. **Thank You, Stingray: Multilingual Large Language Models  Can Not (Yet) Disambiguate Cross-Lingual Word Sense** 2024
+239. **Using Language Models to Disambiguate Lexical Choices in Translation** 2024
+240. **Multilingual Word Sense Disambiguation for Semantic Annotations: Fusing Knowledge Graphs, Lexical Resources, and Large Language Models** 2024
+241. **A Systematic Analysis of Various Word Sense Disambiguation Approaches** 2024
+242. **Lost in Disambiguation: How Instruction-Tuned LLMs Master Lexical Ambiguity** 2024
+243. **State-of-the-Art Approaches to Word Sense Disambiguation: A Multilingual Investigation** 2024
+244. **Assessing GPT's Potential for Word Sense Disambiguation: A Quantitative Evaluation on Prompt Engineering Techniques** 2024
+245. **Can LLMs assist with Ambiguity? A Quantitative Evaluation of various Large Language Models on Word Sense Disambiguation** 2024
+246. **ContrastWSD: Enhancing Metaphor Detection with Word Sense Disambiguation Following the Metaphor Identification Procedure** 2024
+247. **WSD task based on Chinese BERT model** 2024
+248. **SANDWiCH: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc** 2025
+249. **Extensive mutation for testing of word sense disambiguation models** 2025
+250. **GlossGPT:GPTforWordSenseDisambiguationusingFew-shot Chain-of-ThoughtPrompting** 2025
+251. **Are Larger Language Models Better at Disambiguation** 2025
+252. **EXPLORING THE WORD SENSE DISAMBIGUATION CAPABILITIES OF LARGE LANGUAGE MODELS** 2025
+253. **Leveraging large language models for word sense disambiguation** 2025
+254. **Exploiting Word Sense Disambiguation in Large Language Models for Machine Translation** 2025
+255. **SenWiCh: Sense-Annotation of Low-Resource Languages for WiC using Hybrid Methods** 2025
+256. **PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation** 2025
+257. **Word sense disambiguation in  biomedical applications** 2025
+258. **Hybrid Transformer-Based Large Language Models for Word Sense Disambiguation in the Low-Resource Sesotho sa Leboa Language** 2025
+259. **Marathi Word Sense Disambiguation through unsupervised K-Means Clustering** 2025
+260. **Towards Disambiguation of Mathematical Terms based on Semantic Representations 2025** 2025
+261. **LTRS: Improving Word Sense Disambiguation via Learning to Rank Senses** 2025
+262. **Towards General-Domain Word Sense Disambiguation: Distilling Large Language Model into Compact Disambiguator** 2025
+263. **Simplifications are Absolutists: How Simplified Language Reduces WordSense Awareness in LLM-Generated Definitions** 2025
+264. **How Much Do Encoder Models Know About Word Senses?** 2025
+265. **Enhancing Zero-Shot Word Sense Disambiguation via Clustered Sense Vectors** 2025
+266. **MADAWSD: Multi-Agent Debate Framework for Adversarial Word Sense Disambiguation** 2025
+267. **RoDEval: A Robust Word Sense Disambiguation Evaluation Framework for Large Language Models** 2025
+268. **Prompt Balance Matters: Understanding How Imbalanced Few-ShotLearning Affects Multilingual Sense Disambiguation in LLMs** 2025
+269. **Exploring the Impact of Temperature on Large Language Models: A Case Study for Classification Task based on Word Sense Disambiguation** 2025
+270. **Do Large Language Models Understand Word Senses?** 2025
+271. **A Survey on Lexical Ambiguity Detection and Word Sense Disambiguation** 2025
+272. **Word sense disambiguation in biomedical applications** 2025
+273. **Integrating Symbolic Natural Language Understanding and Language Models for Word Sense Disambiguation** 2025
