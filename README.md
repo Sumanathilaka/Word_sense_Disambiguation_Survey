@@ -40,7 +40,7 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 11. **Using WordNet for Word Sense Disambiguation to Support Concept Map Construction** 2003
 12. **Extended gloss overlaps as a measure of semantic relatedness** 2003
 13. **Ambiguity Identification and Measurement in Natural Language Texts** 2004
-14. **Unsupervisedandsupervisedexploitationofsemantic domains inlexicaldisambiguationq** 2004
+14. **Unsupervised and supervised exploitation of semantic domains in lexical disambiguation** 2004
 15. **Context Clustering for Word Sense Disambiguation Based on  Modeling Pairwise Context Similarities** 2004
 16. **High WSD accuracy using Naive Bayesian classifier with rich features** 2004
 17. **The syntactically dangerous all and plural in specifications** 2005
