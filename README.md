@@ -4,6 +4,10 @@
 This repository accompanies a comprehensive survey on **Word Sense Disambiguation (WSD)**, the task of automatically identifying the correct meaning of a word in context.
 The survey covers significant papers that have reshaped the WSD landscape from 1994 to the end of 2025, tracing the field's evolution from early knowledge-based and statistical approaches through to modern large language model (LLM)-driven methods.
 
+#  Ambiguity in Natural Text
+
+![Ambiguity](./images/TypesofAmbiguity.png)
+
 # WSD survey or Review Papers
 
 1. **Introduction to the Special Issue on Word Sense Disambiguation: The State of the Art** : [[PDF]](https://aclanthology.org/J98-1001.pdf)
@@ -22,10 +26,17 @@ The survey covers significant papers that have reshaped the WSD landscape from 1
 14. **Review of Word Sense Disambiguation and Its Approaches**: [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097221)
 
 
+# Year-wise Distribution
+
+![Year Distribution](./images/Timeline.png)
+
+# Evolution of the technology for WSD
+
+![Year Distribution](./images/evolution.png)
+
 # WSD papers ordered in chronological order
 
-![Year Distribution](./images/yearDistributionupdated.png)
-
+![paper Distribution](./images/ChronologicalDevelopment.png)
 
 1. **Automatic sense disambiguation using machine readable dictionaries: how to tell a pine cone from an ice cream cone** 1986
 2. **A SEMANTIC CONCORDANCE** 1993
